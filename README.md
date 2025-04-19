@@ -8,5 +8,6 @@ A simple online shopping application built with Node.js, Express, EJS, and Tailw
 - Responsive design using Tailwind CSS.
 
 ## Installation
-1. Clone the repository:
-2. Run 'npm start' in your terminal.
+1. Clone the repository.
+2. Run 'npm install'
+3. Run 'npm start' in your terminal.
