@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header, footer {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  button, a.bg-blue-600, a.bg-green-600, button.bg-green-600 {
+    transition: background-color 0.3s ease;
+  }
